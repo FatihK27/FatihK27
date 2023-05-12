@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Azure, AWS Devops, Azure Devops, Docker, Kubernetes**
 
-- 🌱 I’m currently learning **Devops Tools**
+- 🌱 I’m currently preparing **AZ-400: Designing and Implementing Microsoft DevOps Solutions**
 
 - 📫 How to reach me **fatihkartal27@gmail.com**
 
