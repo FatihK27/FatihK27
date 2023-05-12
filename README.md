@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih KARTAL</h1>
 <h3 align="center">I graduated with a degree in Business Management. I have worked as a System, ERP, and Software team manager for long years in my 20-year career. I have a great interest in staying trained and informed on the latest cloud technologies and software development tools. Therefore I follow industry innovations and certifications with interest, and I am trying to improve myself day by day. I have many certifications related to my job and my vision, such as MCP, CCNA, Azure Fundamentals, Azure Administrator and AWS Solutions Architect. Lately, I am trying to improve myself basis on Devops.</h3>
 
-- 🔭 I’m currently working on **Huawei Cloud, AWS Devops, Azure Devops, Kubernetes**
+- 🔭 I’m currently working on **Azure, AWS Devops, Azure Devops, Docker, Kubernetes**
 
 - 🌱 I’m currently learning **Devops Tools**
 
